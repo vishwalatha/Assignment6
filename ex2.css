@@ -1,0 +1,15 @@
+ad{display: block;
+
+border:  2px solid black;
+
+}
+make,model,description,seller{
+    color:black;
+    font-weight:  bolder;
+    font-family:  helvetica;
+
+}
+year, color, price, city, state{
+
+    color:  white;
+}
